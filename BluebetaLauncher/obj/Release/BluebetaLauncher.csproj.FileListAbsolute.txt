@@ -1,0 +1,14 @@
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\bin\Release\BluebetaLauncher.exe.config
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\bin\Release\BluebetaLauncher.exe
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\bin\Release\BluebetaLauncher.pdb
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\bin\Release\MojangAuth.dll
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\bin\Release\Newtonsoft.Json.dll
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\bin\Release\MojangAuth.pdb
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.LauncherForm.resources
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.PackDLForm.resources
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.Properties.Resources.resources
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.csproj.GenerateResource.Cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.exe
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\BluebetaLauncher\obj\Release\BluebetaLauncher.pdb

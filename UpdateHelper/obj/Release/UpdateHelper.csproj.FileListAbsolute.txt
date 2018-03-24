@@ -1,0 +1,10 @@
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\bin\Release\UpdateHelper.exe.config
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\bin\Release\UpdateHelper.exe
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\bin\Release\UpdateHelper.pdb
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.Form1.resources
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.Properties.Resources.resources
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.csproj.GenerateResource.Cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.exe
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\UpdateHelper\obj\Release\UpdateHelper.pdb

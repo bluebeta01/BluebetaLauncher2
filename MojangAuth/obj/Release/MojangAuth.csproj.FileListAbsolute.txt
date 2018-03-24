@@ -1,0 +1,7 @@
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\bin\Release\MojangAuth.dll
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\bin\Release\MojangAuth.pdb
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\bin\Release\Newtonsoft.Json.dll
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\obj\Release\MojangAuth.csprojResolveAssemblyReference.cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\obj\Release\MojangAuth.csproj.CoreCompileInputs.cache
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\obj\Release\MojangAuth.dll
+C:\Users\Logan\Desktop\GitHub\BluebetaLauncher2\MojangAuth\obj\Release\MojangAuth.pdb

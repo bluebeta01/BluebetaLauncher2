@@ -1,0 +1,93 @@
+[17:56:59] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:56:59] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:56:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[17:56:59] [main/INFO]: Forge Mod Loader version 12.18.3.2511 for Minecraft 1.10.2 loading
+[17:56:59] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_161, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_161
+[17:56:59] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:56:59] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:56:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:56:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[17:56:59] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:57:01] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[17:57:01] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[17:57:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[17:57:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[17:57:01] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:57:01] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[17:57:01] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[17:57:02] [Client thread/INFO]: Setting user: Bluebeta01
+[17:57:05] [Client thread/INFO]: LWJGL Version: 2.9.4
+[17:57:06] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[17:57:06] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:223]: ---- Minecraft Crash Report ----
+// Hey, that tickles! Hehehe!
+
+Time: 2/27/18 5:57 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_161, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 275661472 bytes (262 MB) / 738197504 bytes (704 MB) up to 4294967296 bytes (4096 MB)
+	JVM Flags: 8 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=16M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 390.77' Renderer: 'GeForce GTX 960/PCIe/SSE2'
+[17:57:06] [Client thread/INFO]: MinecraftForge v12.18.3.2511 Initialized
+[17:57:06] [Client thread/INFO]: Replaced 231 ore recipes
+[17:57:06] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[17:57:06] [Client thread/INFO]: Searching C:\Users\Logan\AppData\Roaming\.bluebeta\packs\testpack\1.0\mods for mods
+[17:57:07] [Client thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[17:57:08] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[17:57:08] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[17:57:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[17:57:08] [Client thread/INFO]: Processing ObjectHolder annotations
+[17:57:08] [Client thread/INFO]: Found 423 ObjectHolder annotations
+[17:57:08] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[17:57:08] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[17:57:08] [Client thread/INFO]: Applying holder lookups
+[17:57:08] [Client thread/INFO]: Holder lookups applied
+[17:57:08] [Client thread/INFO]: Applying holder lookups
+[17:57:08] [Client thread/INFO]: Holder lookups applied
+[17:57:08] [Client thread/INFO]: Applying holder lookups
+[17:57:08] [Client thread/INFO]: Holder lookups applied
+[17:57:08] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[17:57:08] [Client thread/INFO]: Applying holder lookups
+[17:57:08] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[17:57:08] [Client thread/INFO]: Holder lookups applied
+[17:57:08] [Client thread/INFO]: Injecting itemstacks
+[17:57:08] [Client thread/INFO]: Itemstack injection complete
+[17:57:08] [Forge Version Check/INFO]: [Forge] Found status: AHEAD Target: null
+[17:57:08] [Thread-6/INFO]: Using sync timing. 200 frames of Display.update took 106116941 nanos
+[17:57:11] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:57:11] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[17:57:11] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:57:12] [Thread-8/INFO]: OpenAL initialized.
+[17:57:12] [Sound Library Loader/INFO]: Sound engine started
+[17:57:13] [Client thread/INFO]: Max texture size: 16384
+[17:57:13] [Client thread/INFO]: Created: 16x16 textures-atlas
+[17:57:13] [Client thread/INFO]: Injecting itemstacks
+[17:57:13] [Client thread/INFO]: Itemstack injection complete
+[17:57:13] [Client thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[17:57:13] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[17:57:14] [Client thread/INFO]: SoundSystem shutting down...
+[17:57:14] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[17:57:14] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[17:57:14] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[17:57:14] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[17:57:14] [Thread-10/INFO]: OpenAL initialized.
+[17:57:14] [Sound Library Loader/INFO]: Sound engine started
+[17:57:15] [Client thread/INFO]: Max texture size: 16384
+[17:57:15] [Client thread/INFO]: Created: 512x512 textures-atlas
+[17:57:25] [Client thread/INFO]: Stopping!
+[17:57:25] [Client thread/INFO]: SoundSystem shutting down...
+[17:57:26] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

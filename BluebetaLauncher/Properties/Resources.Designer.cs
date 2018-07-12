@@ -63,6 +63,16 @@ namespace BluebetaLauncher.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _2018_07_12_13_58_29 {
+            get {
+                object obj = ResourceManager.GetObject("2018-07-12_13.58.29", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap HDUTPEF {
             get {
                 object obj = ResourceManager.GetObject("HDUTPEF", resourceCulture);

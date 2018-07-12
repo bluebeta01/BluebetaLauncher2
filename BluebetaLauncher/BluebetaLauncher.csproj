@@ -112,6 +112,7 @@
   <ItemGroup>
     <Content Include="Bluebeta Launcher.exe_I7f00_0000.ico" />
     <Content Include="icon_M64_icon.exe" />
+    <None Include="Resources\2018-07-12_13.58.29.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

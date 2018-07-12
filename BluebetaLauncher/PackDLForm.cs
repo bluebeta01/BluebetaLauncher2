@@ -55,6 +55,7 @@ namespace BluebetaLauncher
 
             try
             {
+                label1.Text = "Extracting. Please Wait...";
                 ZipFile.ExtractToDirectory(Utils.appdata + "/.bluebeta/packs/" + name + "/" + version + "/" + version + ".zip", Utils.appdata + "/.bluebeta/packs/" + name + "/" + version);
             }
             catch

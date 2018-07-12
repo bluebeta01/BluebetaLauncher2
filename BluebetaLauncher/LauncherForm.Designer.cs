@@ -38,16 +38,16 @@
             this.label4 = new System.Windows.Forms.Label();
             this.emailBox = new System.Windows.Forms.TextBox();
             this.passwordBox = new System.Windows.Forms.TextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.label5 = new System.Windows.Forms.Label();
+            this.buildnumberlabel = new System.Windows.Forms.Label();
             this.ramCombobox = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.rememberBox = new System.Windows.Forms.CheckBox();
-            this.buildnumberlabel = new System.Windows.Forms.Label();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -143,15 +143,6 @@
             this.passwordBox.Size = new System.Drawing.Size(237, 30);
             this.passwordBox.TabIndex = 8;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::BluebetaLauncher.Properties.Resources.HDUTPEF;
-            this.pictureBox1.Location = new System.Drawing.Point(-3, -14);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(975, 511);
-            this.pictureBox1.TabIndex = 9;
-            this.pictureBox1.TabStop = false;
-            // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.SystemColors.ButtonShadow;
@@ -168,15 +159,15 @@
             this.panel1.Size = new System.Drawing.Size(975, 58);
             this.panel1.TabIndex = 10;
             // 
-            // label5
+            // buildnumberlabel
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(633, 20);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(130, 25);
-            this.label5.TabIndex = 4;
-            this.label5.Text = "RAM (In GB):";
+            this.buildnumberlabel.AutoSize = true;
+            this.buildnumberlabel.Location = new System.Drawing.Point(875, 37);
+            this.buildnumberlabel.Name = "buildnumberlabel";
+            this.buildnumberlabel.Size = new System.Drawing.Size(95, 13);
+            this.buildnumberlabel.TabIndex = 6;
+            this.buildnumberlabel.Text = "V. 2.0.5555.55555";
+            this.buildnumberlabel.Click += new System.EventHandler(this.buildnumberlabel_Click);
             // 
             // ramCombobox
             // 
@@ -192,6 +183,16 @@
             this.ramCombobox.Name = "ramCombobox";
             this.ramCombobox.Size = new System.Drawing.Size(100, 33);
             this.ramCombobox.TabIndex = 5;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(633, 20);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(130, 25);
+            this.label5.TabIndex = 4;
+            this.label5.Text = "RAM (In GB):";
             // 
             // panel2
             // 
@@ -220,15 +221,15 @@
             this.rememberBox.UseVisualStyleBackColor = true;
             this.rememberBox.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
-            // buildnumberlabel
+            // pictureBox1
             // 
-            this.buildnumberlabel.AutoSize = true;
-            this.buildnumberlabel.Location = new System.Drawing.Point(875, 37);
-            this.buildnumberlabel.Name = "buildnumberlabel";
-            this.buildnumberlabel.Size = new System.Drawing.Size(95, 13);
-            this.buildnumberlabel.TabIndex = 6;
-            this.buildnumberlabel.Text = "V. 2.0.5555.55555";
-            this.buildnumberlabel.Click += new System.EventHandler(this.buildnumberlabel_Click);
+            this.pictureBox1.Image = global::BluebetaLauncher.Properties.Resources._2018_07_12_13_58_29;
+            this.pictureBox1.Location = new System.Drawing.Point(-3, -14);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(975, 511);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
             // 
             // LauncherForm
             // 
@@ -245,11 +246,11 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bluebeta Launcher";
             this.Load += new System.EventHandler(this.Form1_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
         }

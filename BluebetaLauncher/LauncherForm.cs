@@ -75,7 +75,11 @@ namespace BluebetaLauncher
 
         private void loginButton_Click(object sender, EventArgs e)
         {
-            if(modpackCombobox.Text.Equals("") || versionCombobox.Text.Equals("") || emailBox.Text.Equals("") || passwordBox.Text.Equals(""))
+            json.Pack mypack = (json.Pack)modpackCombobox.SelectedItem;
+            MessageBox.Show(mypack.args);
+            return;
+
+            if (modpackCombobox.Text.Equals("") || versionCombobox.Text.Equals("") || emailBox.Text.Equals("") || passwordBox.Text.Equals(""))
             {
                 MessageBox.Show("Please fill out all fields before loging in!");
                 return;

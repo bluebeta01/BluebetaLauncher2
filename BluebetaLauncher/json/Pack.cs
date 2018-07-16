@@ -12,6 +12,8 @@ namespace BluebetaLauncher.json
         public string friendlyname;
         public string mcversion;
         public string[] versions;
+        public string forgeversion;
+        public string args;
 
         public override string ToString()
         {
